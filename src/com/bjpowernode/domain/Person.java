@@ -15,5 +15,7 @@ public class Person {
     private int age;
 
     private String bran2;
+  
+    private String bran1;
 
 }
