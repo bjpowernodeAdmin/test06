@@ -22,6 +22,9 @@ public class Person {
 
     private String bran11;
 
+    private String bran222;
+
     private String bran111;
+
 
 }
